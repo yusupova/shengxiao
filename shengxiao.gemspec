@@ -13,7 +13,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'i18n', '~> 0.8.0'
   s.add_development_dependency 'rake', '~> 10.0'
-  s.add_development_dependency 'activerecord', '~> 3'
 
   s.files = Dir['lib/**/*']
 end
