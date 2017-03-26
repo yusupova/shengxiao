@@ -11,3 +11,5 @@ module ShengXiao
     ShengXiao::Finder.sign_for(date)
   end
 end
+
+require 'shengxiao/date'
