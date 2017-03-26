@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.name        = 'shengxiao'
   s.version     = ShengXiao::VERSION
   s.licenses    = ['MIT']
-  s.summary     = 'Chinese calendar (Shengxiao) sign calculator'
-  s.description = 'Chinese calendar sign calculator gem'
+  s.summary     = 'Chinese zodiac (Shengxiao) calculator'
+  s.description = 'Chinese zodiac calculator gem'
   s.authors     = ['Albina Yusupova']
   s.email       = 'yusupova.albina@gmail.com'
   s.homepage    = 'https://github.com/yusupova/shengxiao'
