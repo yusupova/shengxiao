@@ -11,8 +11,8 @@ Gem::Specification.new do |s|
   s.email       = 'yusupova.albina@gmail.com'
   s.homepage    = 'https://github.com/yusupova/shengxiao'
 
-  s.add_dependency 'i18n', '~> 0.8.0'
-  s.add_development_dependency 'rake', '~> 10.0'
+  s.add_dependency 'i18n', '>= 0.8.0'
+  s.add_development_dependency 'rake', '>= 12.3.3'
 
   s.files = Dir['lib/**/*']
 end
